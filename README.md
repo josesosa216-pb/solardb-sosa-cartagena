@@ -50,7 +50,7 @@ Primer pipeline de ingesta del proyecto SolarDB Pascual. Un simulador genera lec
 
 | Integrante | Tareas |
 |---|---|
-| [TU NOMBRE COMPLETO] | Simulador, scripts SQL, ETL, roles, README y documento de consulta |
+| Jose Miguel Sosa Cartagena | Simulador, scripts SQL, ETL, roles, README y documento de consulta |
 
 ## Seguridad
 
